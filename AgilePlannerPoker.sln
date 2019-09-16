@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgilePlannerPoker", "AgilePlannerPoker\AgilePlannerPoker.csproj", "{14AF8E3F-4A67-4815-880E-4AF5183776D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14AF8E3F-4A67-4815-880E-4AF5183776D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14AF8E3F-4A67-4815-880E-4AF5183776D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14AF8E3F-4A67-4815-880E-4AF5183776D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14AF8E3F-4A67-4815-880E-4AF5183776D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D82C29D-A1F6-47CF-9E83-7B541EB92622}
+	EndGlobalSection
+EndGlobal
